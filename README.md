@@ -1,6 +1,5 @@
 - 👋 Lizzie, 28yo
-- 👀 Software Engineer based in Kyiv
-- 🌱 Main skills: C#, SQL, Microsoft Azure; Leading small and medium dev teams
+- 👀 .NET Developer based in Kyiv
 - 📫 elizaveta_maksimova@hotmail.com
 
 <!---
