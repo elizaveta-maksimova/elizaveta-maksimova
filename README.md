@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lizzie
-- 👀 I’m a Software Engineer
-- 🌱 My main skills: C#, SQL, Microsoft Azure
-- 📫 How to reach me: elizaveta_maksimova@hotmail.com
+- 👋 Lizzie, 28yo
+- 👀 Software Engineer based in Kyiv
+- 🌱 Main skills: C#, SQL, Microsoft Azure; Leading small and medium dev teams
+- 📫 elizaveta_maksimova@hotmail.com
 
 <!---
 elizaveta-maksimova/elizaveta-maksimova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
